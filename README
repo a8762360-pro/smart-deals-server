@@ -1,0 +1,6 @@
+// genarate token
+// 1. node
+// 2. require.('crypto').randomBytes(64)
+// 3. require.('crypto').randomBytes(64).toString()
+// 4. require.('crypto').randomBytes(64).toString('hex')
+// output = '30077fb3aa36184e701d7eef59354990df1442da9c168b0da7315665fdb9a02c69bca067eeac44c39e5c095f830909132b1fdfc4eabc3750f6fe76dc7d8d0a72'
